@@ -1,0 +1,10 @@
+{
+  "name": "house-manual",
+  "version": "0.2.2",
+  "description": "A weekly check-in for your house. Tracks the maintenance you'd otherwise forget, flags what's coming up, helps when something seems broken, and logs what you did. Works with Notion or plain files.",
+  "author": {
+    "name": "Katie Chimirri"
+  },
+  "license": "MIT",
+  "keywords": ["home", "homeowner", "maintenance", "check-in", "troubleshooting", "household", "notion"]
+}
